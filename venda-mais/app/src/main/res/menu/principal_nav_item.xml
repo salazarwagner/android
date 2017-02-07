@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_pedidos"
+            android:icon="@drawable/ic_carteira_wallet_black_24dp"
+            android:title="@string/pedidos" />
+        <item
+            android:id="@+id/nav_produtos"
+            android:icon="@drawable/ic_produtos_black_24dp"
+            android:title="@string/produtos" />
+        <item
+            android:id="@+id/nav_clientes"
+            android:icon="@drawable/ic_rosto_pessoa_black_24dp"
+            android:title="@string/clientes" />
+        <item
+            android:id="@+id/nav_sincronizar"
+            android:icon="@drawable/ic_cloud_upload_black_24dp"
+            android:title="@string/sincronizar" />
+    </group>
+
+</menu>

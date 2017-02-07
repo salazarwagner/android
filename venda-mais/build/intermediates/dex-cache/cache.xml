@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2d6a616f997b081a050844b570381b379f4e2b9c">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_7a07d71d50f53f3e64a2e88de42ab138d08dcbb2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d2d8109dbdc3b9bf4cd5d4483e25f508337ed661">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a38780055f329b0220898f27e8f6da291c355924/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-transition-25.1.1_2adfd58f44c1cad443e534affa82400f5688e4e5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_79324ce0751bee6834fbe88de673f8959b6157ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_fde11132b6d60fd1bb1b355e89dcb69269412e63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_852ddcef0bdf4520a2c7b1a6862fdbc5b6b7b698/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/exploded-aar/com.android.support/design/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-25.1.1_1709f90d2af6475861de14d72d0df7727c2d6779/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_b9005f1bdb4428f6e846131d8fe4bdf722c58ff0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-25.1.1_f4f59f0e7eb133826d43b626ca1212b2e52ec6f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_75f93833fef7f41a92de0ad93ede85772147631d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_e49bb96c0ee8ef56bb47999436c6d4e0b2bdd9ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_2f995cbfe196f5ca863cca1deb83dd08aadbb57c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_29300da724b2b02785601ae5a401072b089ffdd7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_237415db9ba4c6386081f7a7f992d1c7a657e83a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/salazar/Work/Estudo/Android/venda-mais/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_a94767d53e21286ca2c6681f43ad393dfa144ac1/classes.dex" />
+    </item>
+
+</items>
